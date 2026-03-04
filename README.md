@@ -117,7 +117,7 @@ The trained model weights are not stored in this repository due to size limitati
 
 They can be downloaded here:
 
-(Model link will be added)
+https://huggingface.co/arkid-mondal/vit-deepfake-video-detector/resolve/main/best_model.pth
 
 ---
 
