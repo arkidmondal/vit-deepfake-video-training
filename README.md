@@ -1,4 +1,3 @@
-Good. Now paste this **exact content**.
 
 ```
 # ViT Deepfake Video Detection
