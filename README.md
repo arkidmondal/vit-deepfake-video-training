@@ -136,6 +136,3 @@ Arkid Mondal
 ```
 
 ---
-
-### Step 3
-n tell me **“README committed.”**
